@@ -195,10 +195,12 @@ footer .text1{
          margin-top: 70px;
          /* margin-right: 50px; */
          opacity: 0.8;
+         outline:none;
   }
 
   .input-pass ,.input-btn{
-          opacity: 0.8;  
+          opacity: 0.8; 
+          outline:none;
   }
 
   ::placeholder { 
